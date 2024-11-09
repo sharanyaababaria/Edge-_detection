@@ -1,4 +1,4 @@
-# Edge-_detection
+# Edge_detection
 ### This project focusses on implementing edge detection techniques, which are essential for identifying boundaries and significant structures in images. The motive is to compare the effectiveness of different edge detection methods, including Canny, Sobel, and Prewitt.
 ## Libraries Used:
 ### OpenCV: Used for its wide range of image processing functions, including efficient implementations of edge detection algorithms.
